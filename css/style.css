@@ -316,9 +316,15 @@ p {
   border-radius: 50%;
 }
 .social-list-link {
+  width: 100%;
+  height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.social-svg {
+  width: 44px;
+  height: 44px;
 }
 /* footer */
 footer {
